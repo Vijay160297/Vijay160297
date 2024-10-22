@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay160297" alt="vijay160297" /></a> </p>
 
-- 🌱 I’m currently learning **React Js and Node Js**
+- 🌱 I’m currently learning **FullStack**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **NEW PROJECT**
 
-- 💬 Ask me about **Mongo DB and React**
+- 💬 Ask me about **HTMLandCSS**
 
 - ⚡ Fun fact **I am funny**
 
